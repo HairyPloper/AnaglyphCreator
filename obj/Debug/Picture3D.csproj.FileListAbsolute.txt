@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\Picture3D\bin\Debug\Picture3D.exe.config
+C:\Users\anton\Desktop\Picture3D\bin\Debug\Picture3D.exe
+C:\Users\anton\Desktop\Picture3D\bin\Debug\Picture3D.pdb
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Picture3D\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Desktop\Picture3D\obj\Debug\App.g.cs
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D_MarkupCompile.cache
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D_MarkupCompile.lref
+C:\Users\anton\Desktop\Picture3D\obj\Debug\MainWindow.baml
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.g.resources
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.Properties.Resources.resources
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.exe
+C:\Users\anton\Desktop\Picture3D\obj\Debug\Picture3D.pdb
